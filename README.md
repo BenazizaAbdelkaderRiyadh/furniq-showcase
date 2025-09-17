@@ -4,7 +4,7 @@
 A visually stunning and interactive landing page for "Furniq," a modern furniture brand. This project showcases elegant designs through a clean, minimalist, and responsive user interface built with React, TypeScript, and Tailwind CSS.
 
 The application is a single-page experience, highlighting product craftsmanship, design philosophy, and customer testimonials.
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./assets/Screenshot.png)
 
 ## ✨ Features
 
