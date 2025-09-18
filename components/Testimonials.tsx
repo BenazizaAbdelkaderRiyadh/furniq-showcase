@@ -8,7 +8,7 @@ const testimonials = [
     rating: 5,
   },
   {
-    quote: "I was looking for something unique and sustainable, and Furnt delivered. The quality is amazing, and I love the design.",
+    quote: "I was looking for something unique and sustainable, and Furniq delivered. The quality is amazing, and I love the design.",
     name: "Samantha Miller",
     rating: 5,
   },
