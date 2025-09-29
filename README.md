@@ -21,6 +21,10 @@ The application is a single-page experience, highlighting product craftsmanship,
 - **TypeScript:** A typed superset of JavaScript that compiles to plain JavaScript.
 - **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 
+## 🤖 Image Credits
+
+All product and model photography used in this application were generated using **Google's Gemini AI**.
+
 ## ⚠️ Disclaimer
 
 **This is a portfolio project and not a real e-commerce store.** The products are not for sale, and the checkout process is not functional. This project was created for demonstration purposes to showcase frontend development and UI/UX design skills.
